@@ -5,3 +5,4 @@ This is a responsive promotional page for the One Direction band.
 - There is a video that captures the band's journey.
 - The site will display a three-column grid of quick facts about the band.
 - Users can filter events by region.
+- A custom favicon has been created for the website.
